@@ -1,0 +1,6 @@
+Name=Abc
+Age=18
+Gender=male
+bank=IDFC
+CardNumber=12345678910
+CreditLimit=100000
